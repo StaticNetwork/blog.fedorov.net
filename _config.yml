@@ -2,6 +2,7 @@
 title: Михаил &laquo;Kolo&raquo; Фёдоров
 description: Михаил Фёдоров - Персональный блог
 url: "/"
+surl: "http://blog.fedorov.net"
 
 # Build settings
 markdown: kramdown
