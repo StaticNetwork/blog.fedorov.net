@@ -14,9 +14,9 @@ gems: [jekyll-paginate]
 disqus: fedorovnet
 
 author: Mihail Fedorov
-bio:    # your bio
-email:
-email_md5:
+bio: Huge, smart & very sexy geek
+email: mihail@fedorov.net
+email_md5: 6ebbe5e1bcffca9ff468ad284575d516
 twitter_username: 2mf
 github_username: kolobus
 
