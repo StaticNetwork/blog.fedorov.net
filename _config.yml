@@ -3,7 +3,7 @@ title: Paper Theme
 description: >
   Михаил Фёдоров - Персональный блог
 baseurl: "http://blog.fedorov.net/"
-url: "http://blog.fedorov.net"
+url: ""
 
 # Build settings
 markdown: kramdown
