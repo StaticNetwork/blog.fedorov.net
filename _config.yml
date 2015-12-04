@@ -1,0 +1,35 @@
+# Site settings
+title: Paper Theme
+description: >
+  Михаил Фёдоров - Персональный блог
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://blog.fedorov.net"
+
+# Build settings
+markdown: kramdown
+paginate: 5
+paginate_path: "page/:num"
+highlighter: pygments
+gems: [jekyll-paginate]
+
+disqus: fedorovnet
+
+author: Mihail Fedorov
+bio:    # your bio
+email:
+email_md5:
+twitter_username: 2mf
+github_username: kolobus
+
+# Theming options
+# These settings are mandatory.
+theme:              'blue-pink'
+# drawer theming
+drawer:
+  text_color:       'grey-600'
+  header_color:     'blue-500'
+  navigation_color: 'grey-200'
+# footer theming
+footer:
+  text_color: 'blue-grey-200'
+  color: 'blue-grey-600'
