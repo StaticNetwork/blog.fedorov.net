@@ -2,7 +2,7 @@
 title: Paper Theme
 description: >
   Михаил Фёдоров - Персональный блог
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "http://blog.fedorov.net/"
 url: "http://blog.fedorov.net"
 
 # Build settings
