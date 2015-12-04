@@ -1,8 +1,8 @@
 # Site settings
 title: Михаил &laquo;Kolo&raquo; Фёдоров
 description: Михаил Фёдоров - Персональный блог
-baseurl: ""
-url: ""
+baseurl: "/"
+# url: ""
 
 # Build settings
 markdown: kramdown
